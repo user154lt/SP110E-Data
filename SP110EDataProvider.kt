@@ -36,7 +36,7 @@ class SP110EDataProvider {
             color.red.toByte(),
             color.green.toByte(),
             color.blue.toByte(),
-            0x2C.toByte(),
+            0x1E.toByte(),
         )
 
     /**
